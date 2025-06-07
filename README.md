@@ -5,7 +5,7 @@ This project aims to provide a detailed, data-driven analysis of player performa
 #### 1. Openers
 ![Openers](Dashboard/Openers.png)
 #### 2. Middle Order
-![[Middle Order](Dashboard/Middle%20Order.png)
+![Middle Order](Dashboard/Middle%20Order.png)
 #### 3. Lower-Middle Order
 ![Lower-Middle Order](Dashboard/Lower-Middle%20Order.png)
 #### 4. Lower Order
@@ -15,4 +15,4 @@ This project aims to provide a detailed, data-driven analysis of player performa
 #### 6. Final 11
 ![Final 11](Dashboard/Final%2011.png)
 #### 6. Final 11
-![Final 11](Dashboard/Final%2011%20(2).png
+![Final 12](Dashboard/Final%2011%20(2).png
