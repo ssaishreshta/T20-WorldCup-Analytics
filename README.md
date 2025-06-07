@@ -14,5 +14,5 @@ This project aims to provide a detailed, data-driven analysis of player performa
 ![Tail End](Dashboard/Tail%20End.png)
 #### 6. Final 11
 ![Final 11](Dashboard/Final%2011.png)
-#### 6. Final 11
-![Final 12](Dashboard/Final%2011%20(2).png
+#### 6. Final 11(2)
+![Final 11(2)](Dashboard/Final%2011%20(2).png
